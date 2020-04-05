@@ -7,7 +7,7 @@
 # <https://github.com/KFERMercer/OpenWrt-CI>
 #
 
-name: K2_Trojan_0321
+name: K2_Trojan_0405
 
 on:
   push:
